@@ -1,16 +1,21 @@
-### Hi there 👋
+Olá, Dev(a)s 👋!
+Como você está? Espero que você e sua família estejam ótimos!
+Também estou bem! Obrigado por perguntar!
 
-<!--
-**AlexCavalcanti01/AlexCavalcanti01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Alexsander Santos e sou pernambucano no Brasil.
 
-Here are some ideas to get you started:
+##Trabalhando em:
+Até agora, estou me aprimorando nas tecnologias de Front end, em especial, React e React Native.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Tecnologias Proficientes
+Eu construo aplicativos com JavaScript ultimamente. Estou trabalhando muito com React para construir sites.
+
+##Estudando em:
+Recentemente comecei a desenvolver alguns projetos Mobile. (especialmente usando React Native).
+
+Contatos
+Se quiser perguntar algo, entre em contato comigo nas minhas redes sociais.
+
+Linkedin - alexcavalcanti01
+GitHub - alexcavalcanti01
+Ficarei feliz em responder a qualquer uma de suas dúvidas.
