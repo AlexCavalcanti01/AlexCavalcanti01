@@ -4,13 +4,13 @@ Também estou bem! Obrigado por perguntar!
 
 Meu nome é Alexsander Santos e sou pernambucano no Brasil.
 
-##Trabalhando em:
+## Trabalhando em:
 Até agora, estou me aprimorando nas tecnologias de Front end, em especial, React e React Native.
 
-##Tecnologias Proficientes
+## Tecnologias Proficientes
 Eu construo aplicativos com JavaScript ultimamente. Estou trabalhando muito com React para construir sites.
 
-##Estudando em:
+## Estudando em:
 Recentemente comecei a desenvolver alguns projetos Mobile. (especialmente usando React Native).
 
 Contatos
